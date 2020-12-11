@@ -2,4 +2,4 @@
 
 main.remove();
 
-let newHeader.innerHTML = "<h1>Victory!</h1>"
+let newHeader.innerHTML = "<h1>Victory!</h1>";
